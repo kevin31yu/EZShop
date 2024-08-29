@@ -35,6 +35,7 @@ const HomePage: React.FC = () => {
         }
       } finally {
         setLoading(false);
+        console.log(`fetching to ${process.env.NEXT_PUBLIC_API_BASE_URL}`);
       }
     };
 
