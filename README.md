@@ -68,11 +68,3 @@ You can view the live demo of the application at: [https://witty-island-008b1ea0
    ```
 
    The backend will be available at `http://localhost:8080`.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
