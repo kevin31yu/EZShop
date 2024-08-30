@@ -37,7 +37,7 @@ You can view the live demo of the application at: [https://witty-island-008b1ea0
 4. Set up environment variables:
    Create a `.env.local` file in the `frontend` directory with the following content:
    ```env
-   NEXT_PUBLIC_API_BASE_URL=http://localhost:8080/api
+   NEXT_PUBLIC_API_BASE_URL=http://localhost:8080
    ```
 
 5. Start the development server:
